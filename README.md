@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ai95wt09ag061ygm?svg=true)](https://ci.appveyor.com/project/ADeoZ/ajs-diploma)
-
 # AJS. Retro Game
 
 ###### tags: `netology` `advanced js`
