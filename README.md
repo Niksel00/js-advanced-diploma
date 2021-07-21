@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/Niksel00/js-advanced-diploma/tree/master.svg?style=svg)](https://circleci.com/gh/Niksel00/js-advanced-diploma/tree/master)
 # AJS. Retro Game
 
 ###### tags: `netology` `advanced js`
